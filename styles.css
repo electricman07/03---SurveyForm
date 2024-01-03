@@ -4,6 +4,21 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 
+main {
+  max-width: 1000px;
+  display: block;
+  margin: 0 auto;
+}
+
 h1 {
   font-family: "Permanent Marker", cursive;
+}
+
+h2 {
+  font-family: "Lobster", sans-serif;
+}
+
+h1,
+h2 {
+  text-align: center;
 }
