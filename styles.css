@@ -62,3 +62,7 @@ button {
 .question6 {
   background-color: #bcd4e6;
 }
+
+select {
+  border-radius: 5px;
+}
