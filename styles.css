@@ -35,3 +35,10 @@ h2 {
 .question legend {
   font-weight: 700;
 }
+
+button {
+  padding: 10px 50px;
+  border-radius: 120px;
+  display: block;
+  margin: 0 auto;
+}
