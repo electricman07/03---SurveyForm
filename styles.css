@@ -43,3 +43,22 @@ button {
   display: block;
   margin: 0 auto;
 }
+
+.question1 {
+  background-color: #b2beb5;
+}
+.question2 {
+  background-color: #bcd4e6;
+}
+.question3 {
+  background-color: #b2beb5;
+}
+.question4 {
+  background-color: #bcd4e6;
+}
+.question5 {
+  background-color: #b2beb5;
+}
+.question6 {
+  background-color: #bcd4e6;
+}
