@@ -2,12 +2,16 @@
 
 html {
   font-family: "Open Sans", sans-serif;
+  background-color: #f2f3f4;
 }
 
 main {
   max-width: 1000px;
   display: block;
   margin: 0 auto;
+  background-color: #f0f8ff;
+  padding: 20px;
+  border-radius: 20px;
 }
 
 h1 {
@@ -21,4 +25,13 @@ h2 {
 h1,
 h2 {
   text-align: center;
+}
+
+.question {
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.question legend {
+  font-weight: 700;
 }
